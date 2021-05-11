@@ -42,7 +42,7 @@ const CategoriesScreen = props => {
 }
 
 CategoriesScreen.navigationOptions = {
-    headerTitle: 'Home',
+    headerTitle: 'What to Watch',
     headerStyle: {
         backgroundColor: Colors.primaryDark,
     }
